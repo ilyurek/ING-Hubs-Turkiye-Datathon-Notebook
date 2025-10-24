@@ -1,4 +1,4 @@
-# ING Hubs Türkiye Datathon 2024: Müşteri Kaybı (Churn) Tahmin Modeli
+# ING Hubs Türkiye Datathon 2025: Müşteri Kaybı (Churn) Tahmin Modeli
 
 Bu repository, ING Hubs Türkiye Datathon 2024 yarışması için geliştirilen müşteri kaybı (churn) tahmin modelinin kodlarını ve metodolojisini içermektedir. Proje, panel veri (zaman serisi) formatındaki bankacılık verilerini kullanarak, bir müşterinin önümüzdeki 6 ay içinde churn edip etmeyeceğini tahminlemeyi amaçlamaktadır.
 
